@@ -1,0 +1,1 @@
+Base on Android 6.0.1 For ZUK Z2(Z2131).
